@@ -142,7 +142,7 @@ function keyPressed() {
   if (isGameOver()) {
     updateCanvas();
     alert("GAME OVER");
-  } else
+  }
 
   if (changed) {
     addNumber();
